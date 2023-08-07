@@ -44,7 +44,7 @@ _GtelSoft_<br>
 _IELTS_<br>
   - IELTS score 6.5 `2015` <br>
 
-### **Japanese** (Tiếng Nhật)
+### **Japanese**
 _JLPT_<br>
   - Haven't taken any test but equal to N4 (Able to communicate in daily conversation) <br>
 
