@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Lưu Trường Giang
+title: Luu Truong Giang
 email:
   url: mailto:gianglt.fhvhn@gmail.com
   text: gianglt.fhvhn@gmail.com
 homepage:
-  text: Văn Miếu, Đống Đa, Hà Nội, Việt Nam
+  text: Van Mieu, Dong Da, Hanoi, Vietnam
 phone: (+84)94-228-7607
 ---
 
-# **Lưu** Trường Giang
+# **Luu** Truong Giang
 
 <!--
 include contact information from the front matter
@@ -21,42 +21,42 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Học vấn
+## Educations
 
-### **Đại học Công nghệ - Đại học Quốc gia Hà Nội** `2016.9 - 2022.9`
+### **VNU University of Engineering and Technology** `2016.9 - 2022.9`
 
 ```
-Hà Nội, Việt Nam
+Hanoi, Vietnam
 ```
 
-- Cử nhân Khoa học Máy tính (B.S. in Computer Science)
+- B.S. in Computer Science
 
-## Kinh nghiệm
+## Experiences
 
-### **Tổng công ty Công nghệ - Viễn thông Toàn cầu (GTEL)** `2022.9 - Hiện tại`
-_GtelSoft (Trung tâm phần mềm)_<br>
+### **Global Technology - Telecommunications Corporation (GTEL)** `2022.9 - Now`
+_GtelSoft_<br>
   - Manual Tester (Intern -> Fresher)
-    + Chuyên viên kiểm thử phần mềm, hỗ trợ test các bug có trên các dự án web app do trung tâm sản xuất theo yêu cầu của Bộ Công an bao gồm cả các phần mềm liên quan đến Cơ sở dữ liệu quốc gia về dân cư. Hỗ trợ viết testcase, checklist, chạy testcase cả mới và có sẵn.
+    + Software Testing Specialist, support testing bugs on web app projects produced by the center at the request of the Ministry of Public Security, including software related to the National Population Database. Support to write test cases, checklists, run test cases both new and existing one.
 
-## Ngoại ngữ
+## Languages
 
-### **English** (Tiếng Anh)
+### **English**
 _IELTS_<br>
-  - IELTS điểm 6.5 `2015` <br>
+  - IELTS score 6.5 `2015` <br>
 
 ### **Japanese** (Tiếng Nhật)
 _JLPT_<br>
-  - Chưa thi lấy chứng chỉ nhưng tự tin có thể giao tiếp nói chuyện hàng ngày với người bản địa (Trình độ N4) <br>
+  - Haven't taken any test but equal to N4 (Able to communicate in daily conversation) <br>
 
 ---
 
-## Thành tích & Giải thưởng
+## Achievements & Awards
 
-### **Thành tích Game**
-Giả nhất Rainbow Six Siege - 1st Onlan CHAMPIONSHIP at Vikings `Hà Nội - Việt Nam, 2019.7` <br>
+### **Game Achievements**
+First place in Rainbow Six Siege - 1st Onlan CHAMPIONSHIP at Vikings `Hanoi - Vietnam, 2019.7` <br>
 
-### **Thành tích khác**
-Giải nhất cuộc thi Robotic Challenge do Đại học Công nghệ Chiba tổ chức  `Chiba - Nhật Bản, 2017` <br>
+### **Other Achivements**
+First prize in Robotic Challenge by Chiba Institute of Technology  `Chiba - Japan, 2017` <br>
 
 <!-- ### Footer
 
