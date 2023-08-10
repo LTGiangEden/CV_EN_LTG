@@ -21,6 +21,14 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## Personal Informations
+- _Age_: 26<br>
+- _Gender_: Nam<br>
+- _Martial Status_: Độc thân<br>
+- _Date of Birth_: 06/11/1997<br>
+- _Place of Birth_: Hà Nội, Việt Nam<br>
+- _Nationality_: Việt Nam <br>
+
 ## Educations
 
 ### **VNU University of Engineering and Technology** `2016.9 - 2022.9`
