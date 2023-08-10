@@ -23,11 +23,11 @@ Supported arguments:
 
 ## Personal Informations
 - _Age_: 26<br>
-- _Gender_: Nam<br>
-- _Martial Status_: Độc thân<br>
+- _Gender_: Male<br>
+- _Martial Status_: Single<br>
 - _Date of Birth_: 06/11/1997<br>
-- _Place of Birth_: Hà Nội, Việt Nam<br>
-- _Nationality_: Việt Nam <br>
+- _Place of Birth_: Hanoi, Vietnam<br>
+- _Nationality_: Vietnamese<br>
 
 ## Educations
 
