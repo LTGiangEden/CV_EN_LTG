@@ -44,7 +44,7 @@ Hanoi, Vietnam
 ### **Global Technology - Telecommunications Corporation (GTEL)** `2022.9 - Now`
 _GtelSoft_<br>
   - Manual Tester (Intern -> Fresher)
-    + Software Testing Specialist, support testing bugs on web app projects produced by the center at the request of the Ministry of Public Security, including software related to the National Population Database. Support to write test cases, checklists, run test cases both new and existing one.
+    + Software Testing Specialist, support testing bugs on web app projects produced by the center at the request of the Ministry of Public Security. Support to write test cases, checklists, run test cases both new and existing one.
 
 ## Languages
 
